@@ -9,3 +9,11 @@ This repository provides an implementation of the Llama-2-7B model for various L
 - Supports **multi-GPU inference** using `accelerate`.  
 - Interactive Jupyter Notebook for easy experimentation.  
 
+## Create virtual environment:
+```
+sudo apt install python3.9-venv
+python3.9 -m venv venv
+source venv/bin/activate
+```
+
+
